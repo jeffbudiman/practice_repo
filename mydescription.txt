@@ -1,0 +1,8 @@
+Practice the following steps:
+
+create practive repository
+git ini
+git add
+git commit
+create same repository in GitHub
+git push
